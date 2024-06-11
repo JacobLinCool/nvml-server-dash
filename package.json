@@ -38,5 +38,6 @@
 		"typescript-eslint": "^8.0.0-alpha.29",
 		"vite": "^5.2.13"
 	},
-	"type": "module"
+	"type": "module",
+	"packageManager": "pnpm@9.2.0"
 }
